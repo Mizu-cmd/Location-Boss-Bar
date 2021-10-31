@@ -1,0 +1,9 @@
+{
+    "java.project.sourcePaths": ["src"],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "e:\\mitha\\Desktop\\Mithaniel\\Dev\\spigot-1.16.1.jar",
+        "e:\\mitha\\Desktop\\Mithaniel\\Dev\\worldedit-bukkit-7.2.7.jar"
+    ]
+}

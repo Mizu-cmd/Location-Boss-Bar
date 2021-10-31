@@ -1,0 +1,8 @@
+name: LocationBossBar
+author: Mizu-cmd
+version: 1.0.0
+main: fr.mizu.LocationBossBar
+commands:
+  lbb:
+    description: see all commands of LBB plugin
+    alias: [lbb, LBB]
